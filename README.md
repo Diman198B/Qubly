@@ -1,7 +1,7 @@
 # Qubly
 
 ## Description:
-Qubly - landing page for an data analytics/integrations company, developed on the principle of Graceful Degradation. The site is adaptive, designed according to the layout from Figma, taken from the Internet. When laying out, I adhered to "pixel perfect" for a screen width of 1160px (according to the layout), it turned out to be 70-80%, since I did not reset the indents of the bootstrap classes.
+Qubly - landing page for an data analytics/integrations company. The site is adaptive, designed according to the layout from Figma, taken from the Internet. 
 
 ## Launch:
 1. Save or clone the repository on your PC. 
@@ -19,7 +19,7 @@ The site is designed for various devices, from mobile (with a minimum resolution
 Dmitry Barabash
  
 ## Used technologies:
-HTML, CSS, SASS, Bootstrap, JavaScript, Jquery, Figma, Git, Animate.css, Wow.js. (Emmet and Browsersync were used to speed up development.)
+HTML, CSS, SASS, Bootstrap, JavaScript, Jquery, Figma, Git, Animate.css, Wow.js. 
 
 
 
@@ -28,7 +28,7 @@ HTML, CSS, SASS, Bootstrap, JavaScript, Jquery, Figma, Git, Animate.css, Wow.js.
 # Qubly
 
 ## Описание:
-Qubly — одностраничный сайт для компании, занимающейся аналитикой и интеграцией данных, выполненный по принципу Graceful Degradation. Сайт адаптивный, разработан по макету из Figma, взятого из интернета. При верстке, придерживался "pixel perfect" для ширины экрана 1160px (по макету), получилось на 70-80%, так как не обнулял отступы классов bootstrap. 
+Qubly — одностраничный сайт для компании, занимающейся аналитикой и интеграцией данных. Сайт адаптивный, разработан по макету из Figma, взятого из интернета. 
 
 ## Запуск: 
 1. Сохраните или клонируйте репозиторий себе на ПК.  
@@ -47,4 +47,4 @@ Qubly — одностраничный сайт для компании, зан�
 Дмитрий Барабаш
  
 ## Используемые технологии:
-HTML, CSS, SASS, Bootstrap, JavaScript, Jquery, Figma, Git, Animate.css, Wow.js. (Для ускорения разработки использовались Emmet and Browsersync.)
+HTML, CSS, SASS, Bootstrap, JavaScript, Jquery, Figma, Git, Animate.css, Wow.js. 
